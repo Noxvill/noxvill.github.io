@@ -38,6 +38,7 @@ background-position:left;
   }
 
   .navbar-brand{
+    align-content: center;
     width: 100px;
   }
 
