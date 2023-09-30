@@ -24,6 +24,33 @@ background-position:left;
   background-position: center;
 
 }
+#foto-perfil .image-top {
+ 
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#Educación .image-top {
+ 
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#fork-push .image-top {
+ 
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
 
 /* Contacto */
 
